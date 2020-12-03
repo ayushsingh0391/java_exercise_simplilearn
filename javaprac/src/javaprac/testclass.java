@@ -1,7 +1,7 @@
 package javaprac;
 
 public class testclass {
-	public static void Main(String []args)
+	public static void main(String []args)
 	
 	{
 	
